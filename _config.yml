@@ -4,9 +4,9 @@
 permalink:           pretty
 
 # Setup
-title:               Suy
+title:               suy
 tagline:             'logs'
-description:         'something cool'
+description:         'Suy.note();'
 url:                 htts://UiyoungSeo.github.io
 baseurl:             ""
 gems:                [jekyll-paginate]
@@ -15,9 +15,9 @@ paginate_path:       "page:num"
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Uiyoung Seo
+  url:               #https://twitter.com/mdo
+  email:             #markdotto@gmail.com
 
 # Custom vars
 version:             1.0.0
