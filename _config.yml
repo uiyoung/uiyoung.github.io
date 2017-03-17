@@ -32,6 +32,8 @@ disqus: ''
 
 #permalink: /:year/:month/:title
 permalink:  pretty
+relative_permalinks: true
+
 paginate: 3
 
 highlighter: rouge
