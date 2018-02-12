@@ -3,8 +3,8 @@ layout: post
 title: category test with tags
 description: >
   testing, attention please.
-categories: etc
-tags: hyde hydejack
+categories: programming
+tags: java
 ---
 
 testing permalink
